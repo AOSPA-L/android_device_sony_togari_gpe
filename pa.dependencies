@@ -40,5 +40,11 @@
     "repository":  "CyanogenMod/android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
     "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "AOSPA-L/android_device_sony_togari",
+    "target_path": "device/sony/togari",
+    "revision":    "lollipop-mr1"
   }
 ]
